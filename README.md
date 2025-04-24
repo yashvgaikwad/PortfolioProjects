@@ -1,44 +1,44 @@
-# COVID-19 Global Impact Analysis 📊
+# 📊 Yash Gaikwad – Data Analytics Portfolio
 
-A data-driven deep dive into the spread, mortality, and vaccination trends of COVID-19 across the world using **SQL** and **Tableau**.
-
-This project is more than just numbers — it's a story told through data: from infections and deaths to how countries responded with vaccinations.
-
----
-
-## 🔧 Tools Used
-- **SQL Server** – For heavy data exploration, joins, aggregations, window functions, CTEs, and views  
-- **Tableau** – For dynamic, interactive visualizations and storytelling dashboards
+Welcome! I'm Yash, a data analyst passionate about solving real-world problems with data. 
+This portfolio features diverse projects built using SQL, Python, Tableau, Power BI, and Excel – each designed to deliver business value and demonstrate my analytical mindset.
 
 ---
 
-## 🔍 Project Goals
-- Understand **global infection trends** and **death rates**  
-- Compare COVID’s impact across **continents and countries**  
-- Analyze **vaccination progress** over time  
-- Use SQL to create clean, analysis-ready datasets for visualization  
+## 🚀 Featured Projects
+
+### 🏢 Customer Churn Analysis
+**Tools:** SQL, Tableau  
+Analyzed customer behavior to identify churn patterns. Built interactive dashboards to reveal trends across tenure, contract types, and demographics – driving actionable retention strategies.
+
+### 📈 Sales Performance Tracker
+**Tools:** Power BI, Excel  
+Created dynamic dashboards to monitor regional sales KPIs. Enabled leadership to spot underperforming areas, improving decision speed and accuracy.
+
+### 🏥 Healthcare Patient Insights
+**Tools:** SQL, Power BI  
+Segmented patient data to identify high-cost individuals and treatment bottlenecks. Delivered reports that supported targeted intervention planning.
+
+### 🚚 Supply Chain Inventory Optimization
+**Tools:** Excel, Power BI  
+Tracked reorder cycles and warehouse inefficiencies. Helped optimize stock levels and reduce holding costs using visual analytics.
+
+### 💳 Transactions Dashboard for a FinTech App
+**Tools:** SQL, Tableau  
+Analyzed user transactions to identify spending trends and anomalies. Designed dashboards for monthly reporting to leadership.
 
 ---
 
-## 📌 Key Insights Uncovered
-- **Europe** recorded the highest death toll globally  
-- The **United States, UK, and India** showed some of the highest infection rates  
-- While global cases soared, **vaccination rollouts** varied widely by region  
-- A persistent gap existed between infection rates and vaccine adoption in several developing countries
+## 🧠 Core Skills & Tools
+
+- **Languages:** SQL, Python  
+- **BI Tools:** Tableau, Power BI, Excel  
+- **Techniques:** EDA, Predictive Modeling, KPI Tracking, Data Cleaning, Dashboarding  
+- **Certifications:** Mulesoft Certified Developer
 
 ---
 
-## 📁 SQL Work Highlights
+## 🌐 Portfolio Website  
+👉 [yashvgaikwad.github.io](https://yashvgaikwad.github.io)
 
-The raw data came from two primary sources:
-- `CovidDeaths`
-- `CovidVaccinations`
-
-### 🚀 Highlights of SQL Work:
-- Created dynamic views and temporary tables to calculate:
-  - Daily & total deaths/cases
-  - Infection and death percentages
-  - Vaccination rollouts (using window functions for rolling sums)
-- Used **CTEs and subqueries** to simplify complex logic
-- Engineered data to feed into Tableau without needing post-processing
-
+Thanks for stopping by! Feel free to explore the projects, and connect if you'd like to collaborate or learn more.
